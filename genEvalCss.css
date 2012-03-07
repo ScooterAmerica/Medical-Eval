@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body
+{
+background-color:#06F;
+}
+
+
+h1
+{
+color:#000;
+text-align:center;
+}
+p
+{
+font-family:"Courier New", Courier, monospace;
+font:"Courier New", Courier, monospace;
+font-size:24px;
+color:#000;
+}
+
+
+
